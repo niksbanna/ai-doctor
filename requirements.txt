@@ -1,0 +1,10 @@
+# Core dependencies
+pydantic>=2.0.0
+openai>=1.0.0
+python-dotenv>=1.0.0
+
+# Medical standards
+fhir.resources>=7.0.0
+
+# Data processing
+requests>=2.31.0
